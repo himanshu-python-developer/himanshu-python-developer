@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">My name is Himanshu. I have completed my graduation in bachelor of computer applications from IIMT Aligarh affilated to Dr. Bhimrao ambedkar university Agra</h3> 
-<h3 align="center">and I have completed python development from DUCAT Noida</h3>
-<img align="left" alt="Coding"width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<h1 align="left">Hi 👋, I'm Himanshu</h1>
+<h3 align="left">My name is Himanshu. I have completed my graduation in bachelor of computer applications from IIMT Aligarh affilated to Dr. Bhimrao ambedkar university Agra</h3> 
+<h3 align="left">and I have completed python development from DUCAT Noida</h3>
+<img align="right" alt="Coding"width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
 
